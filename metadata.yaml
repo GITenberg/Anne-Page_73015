@@ -1,0 +1,37 @@
+_repo: Anne-Page_73015
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Syrett, Netta
+    alias: Syrett, Janet
+    birthdate: 1865
+    deathdate: 1943
+    gutenberg_agent_id: '6244'
+    url: http://www.gutenberg.org/2009/agents/6244
+    wikipedia: https://en.wikipedia.org/wiki/Netta_Syrett
+description: ''
+gutenberg_issued: '2024-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73015'
+language: en
+pgterms:marc904: https://archive.org/details/annepage00syreiala
+pgterms:marc905: 20200917195615syrett
+pgterms:marc906: '1909'
+pgterms:marc907: US
+production_note: MWS, Terry Jeffress and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bJohn Lane, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Villages -- England -- Fiction'
+- !lcsh 'Single women -- Fiction'
+- !lcsh 'Older women -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Anne Page
+url: http://www.gutenberg.org/ebooks/73015
